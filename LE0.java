@@ -12,7 +12,7 @@ class Car{
     }
 }
 
-public class Main
+public class LE0
 {
 	public static void main(String[] args) {
 // 		System.out.println("Hello Abhishek kumar");
